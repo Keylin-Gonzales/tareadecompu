@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.tb{
+	background-color:#FE2E64;
+	border: 2px #000000;
+	padding: 15px;
+	text-align: center;
+	margin: 20px 5px;
+	width: 600px;
+}
+#texto1{
+	text-shadow: 5px 5px 10px #00FF00;
+	font: bold 30px Trebuchet MS;
+	width: 100%
+}
+#texto2{
+	text-shadow: 5px 5px 10px #642EFE;
+	font: bold 40px Trebuchet MS;
+	width: 100%;
+}

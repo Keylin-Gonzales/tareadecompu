@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.flexbox{
+display: flex;
+border: 2px solid #642EFE;
+background-color:#DF013A;
+padding: 40px;
+width: 85%;
+}
+#beige{
+padding: 30px;
+margin: 30px;
+background-color:#F5DA81;
+}
+#celeste{
+padding: 30px;
+margin: 30px;
+background-color:#0080FF;
+}
+#verde{
+padding: 30px;
+margin: 30px;
+background-color:#088A4B;
+}
